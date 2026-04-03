@@ -1,0 +1,20 @@
+{
+  "name": "projeto-agrotech",
+  "version": "1.0.0",
+  "description": "Plataforma para conectar startups do agronegócio e produtores rurais",
+  "main": "src/server.js",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon src/server.js"
+  },
+  "keywords": [],
+  "author": "Vinicius",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.6",
+    "express": "^5.2.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
